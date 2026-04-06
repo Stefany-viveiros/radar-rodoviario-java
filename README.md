@@ -53,10 +53,13 @@ O sistema tem como objetivo:
 ## 🏗️ Estrutura do projeto
 
 
-RadarRodoviario/
+RadarRodoviario/  
+
 │
-├── RadarRodoviario.java → Classe principal (interface com usuário)
-├── Radar.java → Classe responsável pela lógica do sistema
+├── RadarRodoviario.java → Classe principal (interface com usuário)  
+
+├── Radar.java → Classe responsável pela lógica do sistema  
+
 
 
 ---
@@ -96,15 +99,22 @@ percentual = ((velocidade - limite) / limite) * 100
 ## 📌 Exemplo de execução
 
 =========================================
-RADAR ELETRONICO - DETRAN
+RADAR ELETRONICO - DETRAN  
 
-Digite a frequencia do carro: 120
-Digite o limite de velocidade (km/h): 80
 
-Velocidade detectada: 95.0 km/h
-Limite da via: 80.0 km/h
+Digite a frequencia do carro: 120  
 
-Resultado: Infracao MEDIA (4 pontos) - R$ 130,16
+Digite o limite de velocidade (km/h): 80  
+
+
+Velocidade detectada: 95.0 km/h    
+
+
+Limite da via: 80.0 km/h  
+
+
+Resultado: Infracao MEDIA (4 pontos) - R$ 130,16  
+
 
 
 ---
