@@ -98,9 +98,9 @@ percentual = ((velocidade - limite) / limite) * 100
 
 ## 📌 Exemplo de execução
 
-=========================================
-RADAR ELETRONICO - DETRAN  
-
+=========
+RADAR ELETRONICO - DETRAN
+========= 
 
 Digite a frequencia do carro: 120  
 
