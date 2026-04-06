@@ -1,11 +1,6 @@
 /*
  * Projeto: Radar Rodoviario
- *
- * Integrantes:
- * Danilo Berbel Buscariolo da Silva - RA: 00349653
- * Julio Cesar Cazita Silva          - RA: 00350213
- * Renan Trindade Mota               - RA: 00350922
- * Stefany Viveiros                  - RA: 00360385
+ * Disciplina: Programação Orientada a Objetos
  */
 
 package com.mycompany.radarrodoviario;
