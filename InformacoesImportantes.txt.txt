@@ -1,0 +1,45 @@
+INFORMAÇÕES IMPORTANTES
+
+- Projeto desenvolvido utilizando Maven (Java Application)
+- Arquivo principal: RadarRodoviario.java
+- IDE utilizada: Apache NetBeans 21
+- Versão do Java (JDK): 21
+
+INTEGRANTES DO GRUPO
+- Danilo Berbel Buscariolo da Silva - RA: 00349653
+- Julio Cesar Cazita Silva          - RA: 00350213
+- Renan Trindade Mota               - RA: 00350922
+- Stefany Viveiros                  - RA: 00360385
+
+OBSERVAÇÃO
+- Os caracteres especiais (acentuação) foram removidos devido a problemas de encoding (UTF-8) na IDE.
+- Exemplos: "infração", "média", "eletrônico" e "frequência" foram ajustados para evitar erros de exibição.
+
+----------------------------------------
+
+TESTES REALIZADOS
+
+1) Frequência: 0.90
+   Limite de Velocidade: 60 km/h
+   Resultado: Dentro do limite de velocidade
+
+----------------------------------------
+
+2) Frequência: 0.70
+   Limite de Velocidade: 120 km/h
+   Resultado: Infração Média
+   
+----------------------------------------
+
+3) Frequência: 0.80
+   Limite de Velocidade: 60 km/h
+   Resultado: Infração Grave
+
+----------------------------------------
+
+4) Frequência: 0.60
+   Limite de Velocidade: 60 km/h
+   Resultado: Infração Gravíssima
+
+----------------------------------------
+
