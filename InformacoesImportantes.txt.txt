@@ -5,11 +5,6 @@ INFORMAÇÕES IMPORTANTES
 - IDE utilizada: Apache NetBeans 21
 - Versão do Java (JDK): 21
 
-INTEGRANTES DO GRUPO
-- Danilo Berbel Buscariolo da Silva - RA: 00349653
-- Julio Cesar Cazita Silva          - RA: 00350213
-- Renan Trindade Mota               - RA: 00350922
-- Stefany Viveiros                  - RA: 00360385
 
 OBSERVAÇÃO
 - Os caracteres especiais (acentuação) foram removidos devido a problemas de encoding (UTF-8) na IDE.
